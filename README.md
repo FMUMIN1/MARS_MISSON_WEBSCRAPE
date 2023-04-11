@@ -18,9 +18,13 @@ Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 Technical Skills
 
 Webscraping
+
 Splinter
+
 Beautiful Soup
+
 Data analysis using Pandas
+
 Plotting charts using Matplotlib
 
 
